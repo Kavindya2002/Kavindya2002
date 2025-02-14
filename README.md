@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindya2002&label=Profile%20views&color=0e75b6&style=flat" alt="kavindya2002" /> </p>
 
-- 🌱 I’m currently learning **full stack and java web development**
+- I’m currently learning **full stack and java web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kavindya2002?tab=repositories](https://github.com/Kavindya2002?tab=repositories)
 
 - 💬 Ask me about **full stack and java web development**
 
 - 📫 How to reach me **kavindyamallawa0@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAGVqXVdDz8/o1R1EKZNA-H9_pi-GnjiIw/view?utm_content=DAGVqXVdDz8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha987bd4976](https://www.canva.com/design/DAGVqXVdDz8/o1R1EKZNA-H9_pi-GnjiIw/view?utm_content=DAGVqXVdDz8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha987bd4976)
 
 - ⚡ Fun fact **I think I am funny**
 
