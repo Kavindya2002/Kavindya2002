@@ -2,7 +2,8 @@
 Hi 👋, I'm Kavindya Mallawa
     <img src="https://ci3.googleusercontent.com/meips/ADKq_NbxDn6hKvLMRQz3TP_YR7Pk4gOnEXsL1yboa4qdhCy3c7ZAIq4E_M2-13pu2yTO04ERnOLPnh9LUED1mvYVvKRKy9HPEfhk5hrMiojhum64-pJu_y8npj_a=s0-d-e1-ft#https://api.badgr.io/public/assertions/KQgsIzgkQxeAXsEvWqg8EQ/image" alt="Badge" width="80" height="80" />
 </h1>
-<h2 align="center">A passionate full stack developer from Sri Lanka</h2>
+<h2 style="text-align: right;">A passionate full stack developer from Sri Lanka</h2>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kavindya2002&label=Profile%20views&color=0e75b6&style=flat" alt="kavindya2002" />
