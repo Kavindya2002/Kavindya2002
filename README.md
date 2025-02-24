@@ -14,7 +14,7 @@ Hi 👋, I'm Kavindya Mallawa
 
 - 💬 Ask me about **full stack and java web development**
 
-- 📫 How to reach me **kavindyamallawa0@gmail.com**
+- 📫 How to reach me **kavindyamallawa@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
