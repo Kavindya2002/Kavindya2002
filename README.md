@@ -26,6 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindya2002&show_icons=true&locale=en&layout=compact" alt="kavindya2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindya2002&show_icons=true&locale=en" alt="kavindya2002" /></p>
-this is my full code.add this badge
-https://api.badgr.io/public/assertions/KQgsIzgkQxeAXsEvWqg8EQ?identity__email=kavindyamallawa0%40gmail.com
-add this 
