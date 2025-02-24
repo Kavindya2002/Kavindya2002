@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Kavindya Mallawa
-  <img src="https://ci3.googleusercontent.com/meips/ADKq_NbxDn6hKvLMRQz3TP_YR7Pk4gOnEXsL1yboa4qdhCy3c7ZAIq4E_M2-13pu2yTO04ERnOLPnh9LUED1mvYVvKRKy9HPEfhk5hrMiojhum64-pJu_y8npj_a=s0-d-e1-ft#https://api.badgr.io/public/assertions/KQgsIzgkQxeAXsEvWqg8EQ/image" alt="Badge" width="50" height="50" />
+  <img src="https://ci3.googleusercontent.com/meips/ADKq_NbxDn6hKvLMRQz3TP_YR7Pk4gOnEXsL1yboa4qdhCy3c7ZAIq4E_M2-13pu2yTO04ERnOLPnh9LUED1mvYVvKRKy9HPEfhk5hrMiojhum64-pJu_y8npj_a=s0-d-e1-ft#https://api.badgr.io/public/assertions/KQgsIzgkQxeAXsEvWqg8EQ/image" alt="Badge" width="60" height="60" />
 </h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
