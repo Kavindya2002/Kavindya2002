@@ -2,7 +2,7 @@
 Hi 👋, I'm Kavindya Mallawa
     <img src="https://ci3.googleusercontent.com/meips/ADKq_NbxDn6hKvLMRQz3TP_YR7Pk4gOnEXsL1yboa4qdhCy3c7ZAIq4E_M2-13pu2yTO04ERnOLPnh9LUED1mvYVvKRKy9HPEfhk5hrMiojhum64-pJu_y8npj_a=s0-d-e1-ft#https://api.badgr.io/public/assertions/KQgsIzgkQxeAXsEvWqg8EQ/image" alt="Badge" width="80" height="80" />
 </h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h2 align="center">A passionate full stack developer from Sri Lanka</h2>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kavindya2002&label=Profile%20views&color=0e75b6&style=flat" alt="kavindya2002" />
@@ -23,9 +23,7 @@ Hi 👋, I'm Kavindya Mallawa
   <a href="https://linkedin.com/in/kavindya mallawa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindya mallawa" height="30" width="40" />
   </a>
-  <a href="https://fb.com/kavindyamallawa0" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindyamallawa0" height="30" width="40" />
-  </a>
+  
   <a href="https://instagram.com/kavindyamallawac" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavindyamallawac" height="30" width="40" />
   </a>
