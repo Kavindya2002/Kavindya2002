@@ -7,7 +7,7 @@ Hi 👋, I'm Kavindya Mallawa
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindya2002&label=Profile%20views&color=0e75b6&style=flat" alt="kavindya2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindya2002" alt="kavindya2002" /></a> </p>
+</a> </p>
 
 - ✅ Professional Development **Azure Cloud, MERN Stack, APIs, Agile, Microservices**
 
