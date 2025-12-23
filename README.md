@@ -9,13 +9,13 @@ Hi 👋, I'm Kavindya Mallawa
 
 </a> </p>
 
-- ✅ Professional Development **Azure Cloud, MERN Stack, APIs, Agile, Microservices**
+- ✅ Professional Development **Azure Cloud, MERN Stack and APIs**
 
 - 💬 Ask me about **Cloud Computing, Full-stack development, cloud solutions with Azure and software architecture basics**
 
-- 💼 I’m currently Working As **Intern Software Engineer Specializing in Cloud, Web Development**
+- 💼 I’m currently Working As **Intern Software Engineer Specializing in Web Development and Cloud**
 
-- 👯 Looking to Collaborate On **Full-stack MERN applications, Java enterprise solutions, and Azure cloud-native projects**
+- 👯 Looking to Collaborate On **Full-stack MERN applications, Java enterprise solutions and Azure cloud-native projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kavindya2002?tab=repositories](https://github.com/Kavindya2002?tab=repositories)
 
