@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:005a9e,100:001f5c&height=200&section=header&text=Kavindya%20Mallawa&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=.NET%20Developer%20%7C%20Azure%20Cloud%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=a8d4ff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=☁️+Azure+Cloud+Engineer;⚙️+.NET+%26+C%23+Developer;🌐+Full-Stack+Web+Developer;📜+AZ-900+%7C+DP-900+Microsoft+Certified;🎓+SLIIT+4th+Year+%7C+BSc(Hons)+Information+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=☁️+Azure+Cloud+Engineer;⚙️+.NET+%26+C%23+Developer;📜+AZ-900+%7C+DP-900+Microsoft+Certified;🎓+SLIIT+4th+Year+%7C+BSc(Hons)+Information+Technology)](https://git.io/typing-svg)
 
 <br/>
 
