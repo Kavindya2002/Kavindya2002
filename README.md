@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=kavindya2002&label=Profile+Views&color=0078D4&style=flat-square" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/kavindya2002?label=Followers&style=flat-square&color=0078D4)](https://github.com/Kavindya2002)
+
 
 </div>
 
