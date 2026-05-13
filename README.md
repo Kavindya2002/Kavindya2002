@@ -189,17 +189,6 @@ I'm a **BSc(Hons) Information Technology** student at **SLIIT** (4th Year), pass
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kavindya2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D4&icon_color=0078D4&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindya2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9" />
-
-
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
