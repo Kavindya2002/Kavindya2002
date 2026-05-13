@@ -21,8 +21,8 @@ I'm a **BSc(Hons) Information Technology** student at **SLIIT** (4th Year), pass
 - ☁️ **Primary Focus:** Azure Cloud Engineering & .NET Development
 - 🎯 **Currently Studying:** AZ-104 Azure Administrator
 - 💬 **Ask me about:** Azure Services, C# / .NET, RESTful APIs, Full-Stack Development
-- 📫 **Contact:** kavindyamallawa@gmail.com · 
-- 🏠 **Location:** Pannala, Sri Lanka
+- 📫 **Contact:** kavindyamallawa@gmail.com 
+- 🏠 **Location:** Colombo, Sri Lanka
 
 ---
 
@@ -125,7 +125,7 @@ I'm a **BSc(Hons) Information Technology** student at **SLIIT** (4th Year), pass
   </tr>
   <tr>
     <td>✅ DPAPI SecureStorage in Windows</td>
-    <td>✅ AAT Level 2</td>
+    
   </tr>
 </table>
 
@@ -196,13 +196,7 @@ I'm a **BSc(Hons) Information Technology** student at **SLIIT** (4th Year), pass
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kavindya2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D4&icon_color=0078D4&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindya2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9" />
 
-</div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kavindya2002&theme=tokyonight&hide_border=true&background=0d1117&stroke=0078D4&ring=0078D4&fire=ff6b6b&currStreakLabel=0078D4)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
