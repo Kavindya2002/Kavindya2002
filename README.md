@@ -20,7 +20,7 @@ I'm a **BSc(Hons) Information Technology** student at **SLIIT** (4th Year), pass
 
 - ☁️ **Primary Focus:** Azure Cloud Engineering & .NET Development
 - 🎯 **Currently Studying:** AZ-104 Azure Administrator
-- 💬 **Ask me about:** Azure Services, C# / .NET, RESTful APIs, Full-Stack Development
+- 💬 **Ask me about:** Azure Services, C# / .NET Development
 - 📫 **Contact:** kavindyamallawa@gmail.com 
 - 🏠 **Location:** Colombo, Sri Lanka
 
