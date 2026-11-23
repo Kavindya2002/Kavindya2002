@@ -16,9 +16,9 @@
 
 ## 👋 About Me
 
-I'm a **BSc(Hons) Information Technology** student at **SLIIT** (4th Year), passionate about **Azure Cloud** and **.NET development**. I focus on building scalable, cloud-native solutions and enterprise-grade applications.
+I'm a **BSc(Hons) Information Technology** student at **SLIIT** , passionate about **Cloud Technologies** and **.NET development**. I focus on building scalable, cloud-native solutions and enterprise-grade applications.
 
-- ☁️ **Primary Focus:** Azure Cloud Engineering & .NET Development
+- ☁️ **Primary Focus:** Cloud Engineering & Development
 - 🎯 **Currently Studying:** AZ-104 Azure Administrator
 - 💬 **Ask me about:** Azure Services, C# / .NET Development
 - 📫 **Contact:** kavindyamallawa@gmail.com 
@@ -26,112 +26,7 @@ I'm a **BSc(Hons) Information Technology** student at **SLIIT** (4th Year), pass
 
 ---
 
-## ☁️ Azure Cloud Expertise
 
-> Hands-on experience with Microsoft Azure services through enterprise internship work
-
-<div align="center">
-
-| Service | Category | Experience |
-|:---|:---|:---|
-| **Azure App Services** | Compute | Deployed and managed web applications |
-| **Azure Functions** | Serverless | Built serverless solutions with .NET |
-| **Azure Key Vault** | Security | Managed secrets, keys, and certificates |
-| **Azure Application Insights** | Monitoring | Implemented telemetry and performance tracking |
-| **Azure Monitor** | Observability | Configured alerts and diagnostic logging |
-| **Azure Front Door** | Networking | Global load balancing and CDN |
-| **Azure Application Gateway** | Networking | Layer-7 load balancing and WAF |
-| **Azure Container Apps** | Containers | Containerized microservices hosting |
-
-</div>
-
----
-
-## 🏆 Certifications & Badges
-
-<div align="center">
-
-### 🔷 Microsoft Certified
-
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
-      <sub>Earned: November 2024</sub>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
-      <sub>Earned: December 2024</sub>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-005a9e?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
-      <sub>🔄 In Progress</sub>
-    </td>
-  </tr>
-</table>
-
-### 🟠 Developer & Technical
-
-<table>
-  <tr>
-    <td align="center" width="220">
-      <img src="https://img.shields.io/badge/Postman-API%20Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/>
-      <sub>Student Expert · Feb 2025</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://img.shields.io/badge/Microsoft-Introduction%20to%20DevOps-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br/>
-      <sub>Microsoft Learn · Feb 2025</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://img.shields.io/badge/SLIIT-AI%2FML%20Engineer%20Stage%201%20%26%202-003087?style=for-the-badge&logo=academia&logoColor=white" /><br/>
-      <sub>Feb & Apr 2025</sub>
-    </td>
-  </tr>
-</table>
-
-### 🟢 Courses Completed
-
-<table>
-  <tr>
-    <td align="center" width="250">
-      <img src="https://img.shields.io/badge/Alison-Agile%20Project%20Management-2ECC40?style=for-the-badge&logo=checkmarx&logoColor=white" /><br/>
-      <sub>CPD Certified · Feb 2025</sub>
-    </td>
-    <td align="center" width="250">
-      <img src="https://img.shields.io/badge/University%20of%20Moratuwa-Python%20for%20Beginners-8B0000?style=for-the-badge&logo=python&logoColor=white" /><br/>
-      <sub>Jan 2025</sub>
-    </td>
-    <td align="center" width="250">
-      <img src="https://img.shields.io/badge/HP%20LIFE-Data%20Science%20%26%20Analytics-0096D6?style=for-the-badge&logo=hp&logoColor=white" /><br/>
-      <sub>Jan 2025</sub>
-    </td>
-  </tr>
-</table>
-
-### 🔵 Microsoft Learn Student Ambassador Sessions
-
-<table>
-  <tr>
-    <td>✅ Azure OpenAI Services in GitHub Models</td>
-    <td>✅ Create an Agent with Copilot Studio</td>
-  </tr>
-  <tr>
-    <td>✅ Creating an MCP Server Using .NET</td>
-    <td>✅ MCP-Powered AI Agents with Azure AI Foundry</td>
-  </tr>
-  <tr>
-    <td>✅ Getting Started with Power Automate</td>
-    <td>✅ Build an Image Classifier with Azure Custom Vision</td>
-  </tr>
-  <tr>
-    <td>✅ DPAPI SecureStorage in Windows</td>
-    
-  </tr>
-</table>
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
